@@ -1,0 +1,6 @@
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\bin\lab4.dll.config
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\bin\lab4.dll
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\bin\lab4.pdb
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\obj\Debug\lab4.dll
+c:\users\bisma\documents\visual studio 2013\Projects\lab4\lab4\obj\Debug\lab4.pdb
